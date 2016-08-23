@@ -9,3 +9,6 @@ second round test of 'git branch'
 this is a "merge --no-ff" test
 
 Here we fix the bug by adding this line.
+
+this is a "stash" cmd test and I am in progress of development...
+Now it is time to finish the undone job with help of cmd "stash".
