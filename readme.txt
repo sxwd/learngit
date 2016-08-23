@@ -10,3 +10,5 @@ this is a "merge --no-ff" test
 
 this is a "stash" cmd test and I am in progress of development...
 Now it is time to finish the undone job with help of cmd "stash".
+
+this is a line added by sxwd.
